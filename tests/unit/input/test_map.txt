@@ -1,0 +1,3 @@
+Structure Name=Name
+Supplier=Supplier
+Supplier Ref=Reference
